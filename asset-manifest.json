@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/paper-note-web/static/css/main.33b6fb61.css",
-    "main.js": "/paper-note-web/static/js/main.464f87a1.js",
+    "main.css": "/paper-note-web/static/css/main.b476b62d.css",
+    "main.js": "/paper-note-web/static/js/main.ba429123.js",
     "static/js/453.50037293.chunk.js": "/paper-note-web/static/js/453.50037293.chunk.js",
     "static/media/roboto-latin-700-normal.woff2": "/paper-note-web/static/media/roboto-latin-700-normal.4535474e1cf8598695ad.woff2",
     "static/media/roboto-latin-500-normal.woff2": "/paper-note-web/static/media/roboto-latin-500-normal.7077203b1982951ecf76.woff2",
@@ -60,12 +60,12 @@
     "static/media/roboto-greek-ext-300-normal.woff": "/paper-note-web/static/media/roboto-greek-ext-300-normal.b590dbe5c639944366d1.woff",
     "static/media/roboto-greek-ext-400-normal.woff": "/paper-note-web/static/media/roboto-greek-ext-400-normal.16eb83b4a3b1ea994243.woff",
     "index.html": "/paper-note-web/index.html",
-    "main.33b6fb61.css.map": "/paper-note-web/static/css/main.33b6fb61.css.map",
-    "main.464f87a1.js.map": "/paper-note-web/static/js/main.464f87a1.js.map",
+    "main.b476b62d.css.map": "/paper-note-web/static/css/main.b476b62d.css.map",
+    "main.ba429123.js.map": "/paper-note-web/static/js/main.ba429123.js.map",
     "453.50037293.chunk.js.map": "/paper-note-web/static/js/453.50037293.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.33b6fb61.css",
-    "static/js/main.464f87a1.js"
+    "static/css/main.b476b62d.css",
+    "static/js/main.ba429123.js"
   ]
 }
