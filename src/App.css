@@ -51,3 +51,8 @@
 .tilte-length{
   min-width: 200px;
 }
+
+.undone{
+  color: grey;
+  display: flex;
+}

@@ -5,6 +5,7 @@ import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
 import Typography from '@mui/material/Typography';
 import CameraIcon from '@mui/icons-material/Camera';
 import React from 'react';
+import ScienceIcon from '@mui/icons-material/Science';
 
 function ThreeTwoFour() {
     return (
@@ -17,7 +18,11 @@ function ThreeTwoFour() {
         >
           <Typography className='tilte-length'>2024-03 ControlSpeech</Typography>
           <div className='icon'>
-          {/* <CameraIcon /> */}
+       
+          <div className='undone'>
+          <CameraIcon />
+          <ScienceIcon />
+          </div>
      
           </div>
         </AccordionSummary>
@@ -36,7 +41,10 @@ function ThreeTwoFour() {
             >
               <Typography className='tilte-length'>2024-04 DiTTo-TTS</Typography>
               <div className='icon'>
-              {/* <CameraIcon /> */}
+              <div className='undone'>
+          <CameraIcon />
+          <ScienceIcon />
+          </div>
          
               </div>
             </AccordionSummary>
@@ -56,7 +64,10 @@ function ThreeTwoFour() {
             >
               <Typography className='tilte-length'>2024-05 E2 TTS</Typography>
               <div className='icon'>
-              {/* <CameraIcon /> */}
+              <div className='undone'>
+          <CameraIcon />
+          <ScienceIcon />
+          </div>
          
               </div>
             </AccordionSummary>

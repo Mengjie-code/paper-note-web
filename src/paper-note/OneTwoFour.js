@@ -19,8 +19,11 @@ function OneTwoFour() {
         >
           <Typography className='tilte-length'>2024-01 BASE TTS</Typography>
           <div className='icon'>
+
           <CameraIcon />
+          <div className='undone'>
           <ScienceIcon />
+          </div>
           </div>
         </AccordionSummary>
         <AccordionDetails>

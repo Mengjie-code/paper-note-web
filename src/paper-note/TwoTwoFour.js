@@ -4,6 +4,7 @@ import AccordionSummary from '@mui/material/AccordionSummary';
 import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
 import Typography from '@mui/material/Typography';
 import CameraIcon from '@mui/icons-material/Camera';
+import ScienceIcon from '@mui/icons-material/Science';
 
 function TwoTwoFour() {
     return (
@@ -17,6 +18,9 @@ function TwoTwoFour() {
           <Typography className='tilte-length'>2024-02 CLAM-TTS</Typography>
           <div className='icon'>
           <CameraIcon />
+          <div className='undone'>
+          <ScienceIcon />
+          </div>
      
           </div>
         </AccordionSummary>
